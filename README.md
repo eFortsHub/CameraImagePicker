@@ -5,7 +5,7 @@ Current version is : [![](https://jitpack.io/v/eFortsHub/CameraImagePicker.svg)]
 
 
 
-![CameraImagePicker] (https://github.com/eFortsHub/CameraImagePicker/blob/master/device-2021-06-26-222208.png) | ![CameraImagePicker] (https://github.com/eFortsHub/CameraImagePicker/blob/master/device-2021-06-26-222227.png)
+![CameraImagePicker](https://github.com/eFortsHub/CameraImagePicker/blob/master/device-2021-06-26-222208.png)|![CameraImagePicker](https://github.com/eFortsHub/CameraImagePicker/blob/master/device-2021-06-26-222227.png)
 
 
 
