@@ -5,6 +5,10 @@ Current version is : [![](https://jitpack.io/v/eFortsHub/CameraImagePicker.svg)]
 
 
 
+https://github.com/eFortsHub/CameraImagePicker/blob/master/device-2021-06-26-222208.png | https://github.com/eFortsHub/CameraImagePicker/blob/master/device-2021-06-26-222227.png
+
+
+
 # Add it in your root build.gradle at the end of repositories:
 
 
