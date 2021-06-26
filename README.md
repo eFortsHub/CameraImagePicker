@@ -5,18 +5,19 @@ Current version is : [![](https://jitpack.io/v/eFortsHub/CameraImagePicker.svg)]
 
 
 
-#Add it in your root build.gradle at the end of repositories:
+# Add it in your root build.gradle at the end of repositories:
 
-allprojects {
+
+	allprojects {	
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
   
-  #Step 2. Add the dependency:
+  # Step 2. Add the dependency:
   
-  dependencies {
-          ...
+  	dependencies {
+          	...
 	        implementation 'com.github.eFortsHub:CameraImagePicker:Tag'
 	}
