@@ -1,0 +1,3 @@
+rootProject.name = "Camera Picker Library"
+include ':app'
+include ':CameraPickerLibrary'

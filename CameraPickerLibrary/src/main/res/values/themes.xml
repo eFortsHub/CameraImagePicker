@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme.CameraPickerLibrary.NoActionBar" parent="Theme.AppCompat.DayNight.NoActionBar"/>
+
+    <style name="Theme.CameraPickerLibrary.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+
+    <style name="Theme.CameraPickerLibrary.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
